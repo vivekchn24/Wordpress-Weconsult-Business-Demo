@@ -20,7 +20,7 @@ A responsive homepage built using the WeConsult WordPress theme for practice dur
 - Screenshot of final design
 - Media images used in design
 
-## ⚙️ Environment
+## **⚙️ Environment :-**
 - WordPress localhost using WAMPP
 - Tested on desktop browsers
 
@@ -38,7 +38,5 @@ A responsive homepage built using the WeConsult WordPress theme for practice dur
 ## **📌 Disclaimer :-**
 
 -This Wordpress-Website-Buildings project is created purely for learning and practice purposes; hence, I’ve shared only the Screenshots versions of the Wordpress-Website-Buildings to maintain originality and avoid direct copy-paste.
-
--⭐ This Wordpress-Website-Buildings project was completed as part of my Wordpress-Website Internship/Journey And the Wordpress-Website-Buildings Project Done At <a href="https://www.navkarenterprise.biz/">Navkar Enterprise</a>,Surat.
 
 -⭐ This Wordpress-Website-Buildings project was completed as part of my Wordpress-Website Internship/Journey And the Wordpress-Website-Buildings Project Done At <a href="https://www.navkarenterprise.biz/">Navkar Enterprise</a>,Surat.
